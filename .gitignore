@@ -1,0 +1,6 @@
+*.nii
+*.json
+*.nii.gz
+1*/
+CT_BET/
+
